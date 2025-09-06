@@ -1,0 +1,11 @@
+{
+  "name": "shivah-wallet",
+  "version": "1.0.0",
+  "description": "Empowering South Africa's Informal Vendors",
+  "scripts": {
+    "build": "echo 'Building static site'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
